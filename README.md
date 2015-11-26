@@ -1,5 +1,5 @@
 # php-mongodb
-Sample code demonstrating basic CRUD operations on a mongodb database using php
+Sample code demonstrating basic CRUD operations on a MongoDB database using php
 
 database.php
 - interface for database operations
